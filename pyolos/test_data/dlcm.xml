@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://datacite.org/schema/kernel-4" xsi:schemaLocation="http://datacite.org/schema/kernel-4 https://schema.datacite.org/meta/kernel-4.4/metadata.xsd">
+  <identifier identifierType="DOI">10.12345/dlcm:zne2da44l5auzgqseaqzgtkxiq</identifier>
+  <creators>
+    <creator>
+      <creatorName nameType="Personal">Gabriel Jonas Lippmann</creatorName>
+      <givenName>Gabriel Jonas</givenName>
+      <familyName>Lippmann</familyName>
+      <affiliation>Ecole de la Sorbonne</affiliation>
+    </creator>
+    <creator>
+      <creatorName nameType="Personal">Vivian Maier</creatorName>
+      <givenName>Vivian</givenName>
+      <familyName>Maier</familyName>
+    </creator>
+  </creators>
+  <titles>
+        <title xml:lang="fr" titleType="Subtitle">My subtitle</title>
+        <title xml:lang="fr">My sample title</title>
+  </titles>
+  <publisher xml:lang="fr">Sample publischer A</publisher>
+  <publicationYear>1903</publicationYear>
+  <subjects>
+    <subject xml:lang="fr">My subject A</subject>
+    <subject xml:lang="fr">Another subject</subject>
+  </subjects>
+  <contributors>
+    <contributor contributorType="HostingInstitution">
+        <contributorName>Photo Elysée</contributorName>
+        <givenName>Photo</givenName>
+        <familyName>Elysée</familyName>
+        <nameIdentifier schemeURI="http://viaf.org" nameIdentifierScheme="VIAF">138490429</nameIdentifier>
+    </contributor>
+    <contributor contributorType="RightsHolder">
+        <contributorName>René Burri</contributorName>
+        <givenName>René</givenName>
+        <familyName>Burri</familyName>
+        <nameIdentifier schemeURI="http://viaf.org" nameIdentifierScheme="VIAF">96539121</nameIdentifier>
+        <affiliation>Fondation René Burri</affiliation>
+    </contributor>
+  </contributors>
+  <dates>
+      <date dateType="Created" dateInformation="Date peu précise">1902</date>
+      <date dateType="Submitted">2021-05-13</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">Image</resourceType>
+  <alternateIdentifiers>
+    <alternateIdentifier alternateIdentifierType="Num. inventaire">2021.123.10</alternateIdentifier>
+  </alternateIdentifiers>
+  <relatedIdentifiers>
+    <relatedIdentifier relatedIdentifierType="ARK" relationType="IsPartOf">ark:/71134/tqb3kh97gh8w</relatedIdentifier>
+    <relatedIdentifier relatedIdentifierType="ARK" relationType="IsVariantFormOf">ark:/71134/axb3kh9q2he3</relatedIdentifier>
+    <relatedIdentifier relatedIdentifierType="ARK" relationType="IsReferencedBy">ark:/71134/38fvuebw2vc</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+    <size>150 MB</size>
+    <size>11 pages</size>
+  </sizes>
+  <formats>
+    <format>image/tiff</format>
+    <format>image/jpeg</format>
+  </formats>
+  <version>1</version>
+  <rightsList>
+    <rights xml:lang="fr" schemeURI="SPDX" rightsIdentifierScheme="https://spdx.org/licenses/" rightsIdentifier="CC0 1.0" rightsURI="https://creativecommons.org/publicdomain/zero/1.0/"/>
+  </rightsList>
+  <descriptions>
+    <description xml:lang="fr" descriptionType="Abstract">La montagne</description>
+    <description xml:lang="fr" descriptionType="Other">Test description</description>
+  </descriptions>
+  <geoLocations>
+    <geoLocation>
+      <geoLocationPlace>Mont-Blanc</geoLocationPlace>
+    </geoLocation>
+  </geoLocations>
+</resource>
